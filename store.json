@@ -1,0 +1,59 @@
+[
+  {
+    "name": "ONCHAIN SUMMER",
+    "icon": "https://i.ibb.co/nB1xBPp/artopia-icon-transparent.png",
+    "type": "dApp",
+    "data": {
+      "type": "IFrame",
+      "url": "https://friend.tech/",
+      "invert": true,
+      "gallery": [
+        "https://i.ibb.co/qYvc5FF/1.png",
+        "https://i.ibb.co/jwZCXB4/2.png",
+        "https://i.ibb.co/0mj6bhh/3.png",
+        "https://i.ibb.co/Qj0qbZ4/4.png"
+      ],
+        
+      "desc": "Aggregated Liquidity & Market Making.\nInstant Sell, Sweeps & Batch Orders.\nCollect & Sell Incredible NFTs on Multiple Public Blockchains",
+      "feat": "\nAggregated Liquidity \nMarket Making\nInstant Sell \nSweeps & Batch Orders"
+    }
+  },
+  {
+    "name": "Terminal",
+    "icon": "https://i.ibb.co/nB1xBPp/artopia-icon-transparent.png",
+    "type": "dApp",
+    "data": {
+      "type": "IFrame",
+      "url": "https://app.artopia.dev",
+      "invert": true,
+      "gallery": [
+        "https://i.ibb.co/qYvc5FF/1.png",
+        "https://i.ibb.co/jwZCXB4/2.png",
+        "https://i.ibb.co/0mj6bhh/3.png",
+        "https://i.ibb.co/Qj0qbZ4/4.png"
+      ],
+        
+      "desc": "Aggregated Liquidity & Market Making.\nInstant Sell, Sweeps & Batch Orders.\nCollect & Sell Incredible NFTs on Multiple Public Blockchains",
+      "feat": "\nAggregated Liquidity \nMarket Making\nInstant Sell \nSweeps & Batch Orders"
+    }
+  },
+  {
+    "name": "ONCHAIN SUMMERzzz",
+    "icon": "https://i.ibb.co/nB1xBPp/artopia-icon-transparent.png",
+    "type": "dApp",
+    "data": {
+      "type": "IFrame",
+      "url": "https://artopia.dev/",
+      "invert": true,
+      "gallery": [
+        "https://i.ibb.co/qYvc5FF/1.png",
+        "https://i.ibb.co/jwZCXB4/2.png",
+        "https://i.ibb.co/0mj6bhh/3.png",
+        "https://i.ibb.co/Qj0qbZ4/4.png"
+      ],
+        
+      "desc": "Aggregated Liquidity & Market Making.\nInstant Sell, Sweeps & Batch Orders.\nCollect & Sell Incredible NFTs on Multiple Public Blockchains",
+      "feat": "\nAggregated Liquidity \nMarket Making\nInstant Sell \nSweeps & Batch Orders"
+    }
+  }
+]
