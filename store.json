@@ -2465,37 +2465,20 @@
       }
   },
   {
-      "name": "Jetpack Hyperleague",
-      "icon": "https://assets-global.website-files.com/6364e65656ab107e465325d2/64cd8bc32c31e7f6694e7b06_230x0w.webp",
-      "type": "games",
-      "data": {
-          "type": "IFrame",
-          "url": "https://placeholder-rho.vercel.app/",
-          "invert": true,
-          "gallery": [
-              "#",
-"#",
-"#"
-          ],
-          "desc": "Run, Dodge, and Survive: JetPack HyperLeague takes you on an extraterrestrial Survival adventure.",
-          "feat": ""
-      }
-  },
-  {
-      "name": "Mars4",
-      "icon": "https://assets-global.website-files.com/6364e65656ab107e465325d2/650d25f110c83872236be363_Logo-512x512.png",
-      "type": "games",
-      "data": {
-          "type": "IFrame",
-          "url": "https://placeholder-rho.vercel.app/",
-          "invert": true,
-          "gallery": [
-              "#",
-"#",
-"#"
-          ],
-          "desc": "The first Real-Life Mars simulator.",
-          "feat": ""
-      }
-  },
+    "name": "#",
+    "icon": "https://google.com",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://www.google.com",
+      "gallery": [
+        "#",
+        "#",
+        "#",
+        "#"
+      ],
+      "desc": "#",
+      "feat": "#"
+    }
+  }
 ]
