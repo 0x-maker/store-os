@@ -36,7 +36,7 @@
         }
     },
     {
-        "name": ""#"sen",
+        "name": "nansen",
         "icon": "https://assets-global.website-files.com/6364e65656ab107e465325d2/637e740645464c11353d2ce3_z0Th8ui9nnOKD69QZnCEZVcIw23fNhple6GHdKOUmtA.png",
         "type": "analytics",
         "data": {
@@ -49,7 +49,7 @@
                 "#",
                 "#"
             ],
-            "desc": ""#"sen provides users with crypto and NFT insights through a set of blockchain analytics tools.",
+            "desc": "nansen provides users with crypto and NFT insights through a set of blockchain analytics tools.",
             "feat": ""
         }
     },
@@ -216,7 +216,7 @@
         }
     },
     {
-        "name": "Parsec Fi"#"ce",
+        "name": "Parsec Finance",
         "icon": "https://assets-global.website-files.com/6364e65656ab107e465325d2/637aeb804d31492b7dbb8f3c_ZlL_c1TUqON-DPuBYQB-X9ST2PMfLhKPVf6OVvSu97Y.jpeg",
         "type": "analytics",
         "data": {
@@ -229,7 +229,7 @@
                 "#",
                 "#"
             ],
-            "desc": "Parsec Fi"#"ce is a Decentralized platform that aids users in DeFi & NFT Pro Analytics.",
+            "desc": "Parsec Finance is a Decentralized platform that aids users in DeFi & NFT Pro Analytics.",
             "feat": ""
         }
     },
@@ -301,7 +301,7 @@
                 "#",
                 "#"
             ],
-            "desc": "Coin Metrics offers market, network, and fi"#"cial intelligence for crypto industry research.",
+            "desc": "Coin Metrics offers market, network, and financial intelligence for crypto industry research.",
             "feat": ""
         }
     },
@@ -625,7 +625,7 @@
                 "#",
                 "#"
             ],
-            "desc": "Token Terminal is a fi"#"cial data aggregator targeting blockchains and dApps.",
+            "desc": "Token Terminal is a financial data aggregator targeting blockchains and dApps.",
             "feat": ""
         }
     },
